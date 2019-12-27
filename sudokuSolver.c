@@ -1,4 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS
 //9x9 Sudoku Solver
 #include <stdio.h>
 #define SIZE 9
